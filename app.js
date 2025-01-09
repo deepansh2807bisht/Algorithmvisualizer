@@ -20,7 +20,6 @@ const start = async () => {
 };
 
 const RenderScreen = async () => {
-//   let algoValue = Number(document.querySelector(".algo-menu").value);
   await RenderList();
 };
 
